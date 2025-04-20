@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 52447e9a1370e461a892afcc245ea58f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5333
+  packageName: Dish&Tray
+  packageVersion: 1.0
+  assetPath: Assets/Dish&Tray/CubeMap/Cube_Corridor.cubemap
+  uploadId: 27133
